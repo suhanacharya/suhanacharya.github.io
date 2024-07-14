@@ -1,0 +1,9 @@
+baseURL = "https://suhanacharya.github.io"
+languageCode = "en-us"
+title = "Dev Journal"
+theme = "nostyleplease"
+contentDir = "content"
+
+[params]
+  [theme_config]
+  isListGroupByDate = true
