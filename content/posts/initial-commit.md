@@ -1,7 +1,7 @@
 ---
 title: "Initial Commit"
 date: 2024-07-14T11:01:34+05:30
-draft: true
+draft: false
 ---
 
 Over several years of reading dev logs, articles and experiences of individuals, I see immense value in these kinds of sites. 
